@@ -20,7 +20,7 @@ export default function Home() {
   };
 
   return (
-    <div className="flex flex-col items-center w-full max-w-2xl mx-auto bg-black text-white">
+    <div className="flex flex-col items-center w-full max-w-2xl mx-auto bg-black text-white min-h-screen">
 
       <header className="bg-black border border-white flex justify-between w-full p-4 mt-16 mb-16">
         <div>.</div>
