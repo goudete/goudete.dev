@@ -29,7 +29,7 @@ export default function Home() {
       </header>
       
       <section className="border flex flex-col items-center w-full p-4 mb-16">
-        <p className="mb-3">I&apos;m an developer with experience building across the stack.</p>
+        <p className="mb-3">I&apos;m a developer with experience building across the stack.</p>
         <p>Most recently I&apos;ve been building ETL pipelines at PeakMetrics.</p>
       </section>
 
