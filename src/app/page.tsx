@@ -20,20 +20,20 @@ export default function Home() {
   };
 
   return (
-    <div className="flex flex-col items-center w-full max-w-2xl mx-auto">
+    <div className="flex flex-col items-center w-full max-w-2xl mx-auto bg-black text-white">
 
-      <header className="border flex justify-between w-full p-4 mt-16 mb-16">
+      <header className="bg-black border border-white flex justify-between w-full p-4 mt-16 mb-16">
         <div>.</div>
         <div>Enrique Goudet</div>
         <div>.</div>
       </header>
       
-      <section className="border flex flex-col items-center w-full p-4 mb-16">
+      <section className="bg-black border border-white flex flex-col items-center w-full p-4 mb-16">
         <p className="mb-3">I&apos;m a developer with experience building across the stack.</p>
         <p>Most recently I&apos;ve been building ETL pipelines at PeakMetrics.</p>
       </section>
 
-      <footer className="border flex justify-center w-full p-4 space-x-4">
+      <footer className="bg-black border border-white flex justify-center w-full p-4 space-x-4">
         <a href="https://twitter.com/enrique_goudet" className="hover:underline">twitter</a>
         <a href="https://github.com/goudete" className="hover:underline">github</a>
         <div className="relative flex items-center">
