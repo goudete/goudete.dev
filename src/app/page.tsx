@@ -23,11 +23,11 @@ export default function Home() {
     <div className="flex flex-col items-center w-full max-w-2xl mx-auto bg-black text-white min-h-screen">
 
       <header className="bg-black border border-white flex justify-between w-full p-4 mt-16 mb-16">
-        <div>.</div>
+        <a href="#" className="hover:underline">Blog</a>
         <div>Enrique Goudet</div>
-        <div>.</div>
+        <a href="#" className="hover:underline">Projects</a>
       </header>
-      
+
       <section className="bg-black border border-white flex flex-col items-center w-full p-4 mb-16">
         <p className="mb-3">I&apos;m a developer with experience building across the stack.</p>
         <p>Currently working on something new.</p>
