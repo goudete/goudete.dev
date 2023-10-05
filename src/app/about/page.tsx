@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 
-export default function Home() {
+export default function About() {
 
   const [copySuccess, setCopySuccess] = useState<boolean>(false);
 
@@ -29,9 +29,20 @@ export default function Home() {
         <Link className="hover:underline" href="/about">About</Link>
       </header>
 
-      <section className="bg-black border border-white flex flex-col items-center w-full p-4 mb-16">
-        <p className="mb-3">I&apos;m a developer with experience building across the stack.</p>
-        <p>Currently working on something new.</p>
+      <section className="bg-black border border-white flex flex-col w-full p-4 mb-16">
+        <b>Now</b>
+        <ul>
+          <li>- building <Link className="underline" href="https://hello-cluster.com">cluster</Link></li>
+        </ul>
+        <br />
+        <b>Past</b>
+        <ul>
+          <li>- built etl pipelines for govenment agencies and enterprises</li>
+          <li>- built an ai avatar generator that went viral on whatsapp</li>
+          <li>- placed second in the solana hackathon with a dao treasury interface for the real world</li>
+          <li>- built real time data pipelines for price data on decentralized exchanges</li>
+          <li>- built a digital menu for restaurants in mexico</li>
+        </ul>
       </section>
 
       <footer className="bg-black border border-white flex justify-center w-full p-4 space-x-4">

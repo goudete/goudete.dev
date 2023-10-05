@@ -30,8 +30,7 @@ export default function Home() {
       </header>
 
       <section className="bg-black border border-white flex flex-col items-center w-full p-4 mb-16">
-        <p className="mb-3">I&apos;m a developer with experience building across the stack.</p>
-        <p>Currently working on something new.</p>
+        <p>coming soon...</p>
       </section>
 
       <footer className="bg-black border border-white flex justify-center w-full p-4 space-x-4">
