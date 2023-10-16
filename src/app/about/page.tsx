@@ -32,7 +32,7 @@ export default function About() {
       <section className="bg-black border border-white flex flex-col w-full p-4 mb-16">
         <b>Now</b>
         <ul>
-          <li>- building <Link className="underline" href="https://hello-cluster.com">cluster</Link></li>
+          <li>- building <Link className="underline text-cyan-500" href="https://hello-cluster.com">cluster</Link></li>
         </ul>
         <br />
         <b>Past</b>
