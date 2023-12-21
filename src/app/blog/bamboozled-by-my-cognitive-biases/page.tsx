@@ -35,11 +35,11 @@ export default function Home() {
         <div className="text-2xl font-medium">Bamboozled by my Cognitive Biases</div>
 
         <div className="text-slate-200 mt-6">
-          After recently reading <Link className="text-emerald-400 hover:text-emerald-300" href="https://www.stripe.press/poor-charlies-almanack/cover">"Poor Charlie's Almanack"</Link>, I have developed a strong interest in cognitive biases. Actively studying them has made me more aware of their presence in my daily life.
+          After recently reading <Link className="text-emerald-400 hover:text-emerald-300" href="https://www.stripe.press/poor-charlies-almanack/cover">&quot;Poor Charlie&apos;s Almanack&quot;</Link>, I have developed a strong interest in cognitive biases. Actively studying them has made me more aware of their presence in my daily life.
         </div>
 
         <div className="text-slate-200 mt-3">
-          One such example, much to my dismay, was when I found myself bamboozled by a skilled <Link className="text-emerald-400 hover:text-emerald-300" href="https://www.clearme.com/">Clear</Link> salesman at the airport. This salesman effectively used a set of techniques that targeted my cognitive biases. What concerned me the most was that I observed myself willingly providing my fingerprints, retina scan, and driver's license.
+          One such example, much to my dismay, was when I found myself bamboozled by a skilled <Link className="text-emerald-400 hover:text-emerald-300" href="https://www.clearme.com/">Clear</Link> salesman at the airport. This salesman effectively used a set of techniques that targeted my cognitive biases. What concerned me the most was that I observed myself willingly providing my fingerprints, retina scan, and driver&apos;s license.
         </div>
         <div className="text-slate-200 mt-3">
           The following is an account of the situation along with the cognitive biases he targeted.
@@ -73,10 +73,10 @@ export default function Home() {
           Act III - Inconsistency-avoidance tendency
         </div>
         <div className="text-slate-200 mt-3">
-          He impatiently entered my information into the kiosk and acted very casual when the kiosk asked for my fingerprints, retina and drivers license.
+          He impatiently entered my information into the kiosk and acted very casual when the kiosk asked for my fingerprints, retina and driver&apos;s license.
         </div>
         <div className="text-slate-200 mt-3">
-          I had already committed to doing it so the inconsistency-avoidance tendency made me stick through it, even when that meant scanning my fingerprints, retina, and entering my drivers license!
+          I had already committed to doing it so the inconsistency-avoidance tendency made me stick through it, even when that meant scanning my fingerprints, retina, and entering my driver&apos;s license!
         </div>
         <div className="text-slate-200 mt-3">
           The combined effect of the authority mis-influence tendency plus the inconsistency-avoidance tendency made me powerless to handing over my private information to some random person at the airport.
