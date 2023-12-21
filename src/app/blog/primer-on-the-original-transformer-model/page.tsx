@@ -32,7 +32,7 @@ export default function Home() {
       </header>
 
       <section className="bg-black border border-white flex flex-col w-full p-4 mb-16">
-        <div className="text-xl font-medium">A primer on the original Transformer model architecture</div>
+        <div className="text-2xl font-medium">A primer on the original Transformer model architecture</div>
         <div className="text-slate-300 mt-2">Understanding the transformer architecture proposed in the seminal paper <Link className="text-emerald-400 hover:text-emerald-300" href={"https://arxiv.org/pdf/1706.03762.pdf"}>“Attention is all you need”</Link>.</div>
 
 

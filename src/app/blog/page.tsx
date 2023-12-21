@@ -34,12 +34,20 @@ export default function Home() {
         <div className="text-xl mb-3 text-slate-300">
           2023
         </div>
-        <Link
-          className="text-emerald-400 hover:text-emerald-300"
-          href="/blog/primer-on-the-original-transformer-model"
-        >
-          <p>A Primer on the original Transformer model</p>
-        </Link>
+        <div>
+          <Link
+            className="text-emerald-400 hover:text-emerald-300"
+            href="/blog/bamboozled-by-my-cognitive-biases"
+          >
+            <p className="mb-1">Bamboozled by my Cognitive Biases</p>
+          </Link>
+          <Link
+            className="text-emerald-400 hover:text-emerald-300"
+            href="/blog/primer-on-the-original-transformer-model"
+          >
+            <p>A Primer on the original Transformer model</p>
+          </Link>
+        </div>
       </section>
 
       <footer className="bg-black border border-white flex justify-center w-full p-4 space-x-4">
