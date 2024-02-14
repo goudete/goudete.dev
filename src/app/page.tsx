@@ -34,7 +34,6 @@ export default function Home() {
         <p className="mb-3">
           I&apos;m a developer with experience building across the stack. I have built products used by government agencies, enterprises, startups and consumers.
         </p>
-        <p>Currently building <a className="text-emerald-400 hover:text-emerald-300" href="https://hello-cluster.com">cluster,</a> a tool that automates code documentation.</p>
       </section>
 
       <footer className="bg-black border border-white flex justify-center w-full p-4 space-x-4">
